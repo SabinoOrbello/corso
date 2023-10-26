@@ -1,0 +1,130 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+header{
+    text-align: center;
+    background-color:  #2686a9d6;;
+    padding: 10px;
+    margin: 15px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+#imm img{
+    width: 200px;
+}
+#imm{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+nav{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+nav p{
+    margin-top: 10px;
+    font-weight:bold ;
+}
+h3{
+    font-weight: bold;
+}
+#contenitor2{
+    text-align: center;
+    padding: 10px;
+    margin: 15px;
+    
+}
+main{
+    text-align: left;
+    padding: 5px;
+}
+#articolo1 h1{
+    font-weight: bolder;
+    font-size: 35px;
+    line-height: 60px;
+}
+#icon-scritta1 span{
+    margin: 3px;
+}
+#icon-scritta1{color: gray;
+
+}
+#articolo1 p{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+ul,li{
+    list-style: disc;
+    margin: 10px;
+}
+#lista span{
+    background-color: gray;
+    border: 1px solid rgb(69, 68, 68);
+    border-radius: 12px;
+    margin: 2px;
+    font-size: 13px;
+}
+#lista2 p,li{
+    line-height: 1.6em;
+}
+table tr th{
+    padding: 10px;
+    border: 1px solid gray;
+}
+td{
+    padding:10px;
+    border: 1px solid gray;
+}
+th{
+    background-color: blue;
+    color: white;
+}
+#testo p{
+    line-height: 1.6em;
+}
+#box0 p{
+    line-height: 1.6em;
+text-align: left;}
+
+#box0 input{
+    border-bottom: 2px dotted gray;
+    text-align: left;
+}
+button{
+    background-color: rgb(60, 60, 233);
+    color: white;
+}
+#box0{
+    background-color: rgb(202, 195, 195);
+    padding: 10px;
+    text-align: center;
+    margin: 13px;
+    border: 1px solid gray;
+}
+aside h3{
+    text-align: center;
+    font-size: 23px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+.box span{
+    line-height: 1.4em;
+}
+.data{
+    text-align: right;
+    margin-top: 20px;
+}
+.boxer{
+    background-color: rgb(212, 205, 205);
+    padding: 10px;
+    height: 80px;
+    border: 1px solid grey;
+    line-height: 1.4em;
+    margin: 12px;
+}
+a{
+    color: rgb(60, 159, 159);
+}
+p{
+    line-height: 1.4em;
+}
