@@ -1,0 +1,133 @@
+body{
+    font-size: 1.2rem;
+    line-height: 1.6;
+    word-spacing: 0.1em;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #80808047;
+}
+
+header{
+    background-color:#232c3c ;
+    padding:0.7em 1.8em;
+}
+#logo img{
+    width: 7%;
+}
+nav{
+    background-color: #414b5e;
+    padding: 0.4em;
+    color: white;
+    word-spacing: 43px;
+    padding-left: 2.5em;
+    font-size: 17px;
+}
+nav span{
+    word-spacing: 0;
+}
+main{
+    text-align: center;
+    margin: 1.4em;
+    
+}
+#titolo1{
+    background-color: #eb6709;
+    color: white;
+    padding: 0.3em;
+    margin-top: 2.5em;
+    margin-bottom: 2.5em;
+}
+#titolo2{
+    background-image: url(../images/bg-image.png);
+    color: white;
+    padding-top: 2.7em;
+    padding-bottom: 2em;
+    background-position: top;
+    font-weight: bold;
+}
+
+#titolo2 h1{
+margin-bottom: 1em;
+font-size: 30px;
+}
+#sezione1{
+    background-color: white;
+    margin-top: 1.5em;
+    padding: 1.2em;
+    text-align: left;
+    padding-bottom: 0.2em;
+}
+#sezione1 h3{
+    text-align: left;
+    font-weight: bold;
+}
+#sezione1 span{
+    color:#267791;
+    font-size: 15px;
+    padding-left: 1.2em;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.immagin1{
+    margin: 1.2em;
+    
+}
+.immagin1 img{
+    box-shadow:10px 10px 5px #3f3f3f29;
+}
+#sezione2{
+    margin-top: 1.3em;
+}
+
+
+
+.immagin1 img{
+    width: 410px;
+    border-radius: 10%;
+    height: 50%;
+    
+}
+.immagine{
+    float: inline-start;
+}
+#foto1 img{
+    height: 331px;
+}
+.sezione2 img{
+    width: 100%;
+    
+    
+}
+.sezione2{
+    font-weight: bold;
+    margin-bottom: 1.3em;
+}
+.sezione2 span{
+    color:#267791;
+    font-size: 15px;
+    padding-left: 1.2em;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+footer{
+    text-align: center;
+    background-color: #414b5e ;
+    padding: 0.6em;
+    color: white;
+    text-decoration: underline;
+    font-size: 18px;
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+}
+#logo2{
+    background-color: #232c3c;
+    padding: 2.3em;
+    
+}
+#logo2 img{
+    width: 7%;
+}
+
+#scritta{
+    padding-bottom: 0.4em;
+}
